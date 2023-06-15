@@ -1,0 +1,37 @@
+[3:45:36 PM] File change detected. Starting incremental compilation...
+Hiiiiiiiiiiiiiiii
+[3:45:36 PM] Found 0 errors. Watching for file changes.
+
+[Nest] 3875  - 06/14/2023, 3:45:37 PM     LOG [NestFactory] Starting Nest application...
+[Nest] 3875  - 06/14/2023, 3:45:37 PM     LOG [InstanceLoader] TypeOrmModule dependencies initialized +13ms
+[Nest] 3875  - 06/14/2023, 3:45:37 PM     LOG [InstanceLoader] PassportModule dependencies initialized +0ms
+[Nest] 3875  - 06/14/2023, 3:45:37 PM     LOG [InstanceLoader] DiscoveryModule dependencies initialized +8ms
+[Nest] 3875  - 06/14/2023, 3:45:37 PM     LOG [InstanceLoader] ConfigHostModule dependencies initialized +0ms
+[Nest] 3875  - 06/14/2023, 3:45:37 PM     LOG [InstanceLoader] JwtModule dependencies initialized +0ms
+[Nest] 3875  - 06/14/2023, 3:45:37 PM     LOG [InstanceLoader] AppModule dependencies initialized +0ms
+[Nest] 3875  - 06/14/2023, 3:45:37 PM     LOG [InstanceLoader] EventEmitterModule dependencies initialized +0ms
+[Nest] 3875  - 06/14/2023, 3:45:37 PM     LOG [InstanceLoader] ConfigModule dependencies initialized +0ms
+[Nest] 3875  - 06/14/2023, 3:45:37 PM     LOG [InstanceLoader] UserModule dependencies initialized +0ms
+[Nest] 3875  - 06/14/2023, 3:45:37 PM     LOG [InstanceLoader] AuthModule dependencies initialized +1ms
+[Nest] 3875  - 06/14/2023, 3:45:37 PM     LOG [InstanceLoader] TypeOrmCoreModule dependencies initialized +20ms
+[Nest] 3875  - 06/14/2023, 3:45:37 PM     LOG [InstanceLoader] TypeOrmModule dependencies initialized +0ms
+[Nest] 3875  - 06/14/2023, 3:45:37 PM     LOG [InstanceLoader] QuizModule dependencies initialized +1ms
+[Nest] 3875  - 06/14/2023, 3:45:37 PM     LOG [RoutesResolver] AppController {/}: +15ms
+[Nest] 3875  - 06/14/2023, 3:45:37 PM     LOG [RouterExplorer] Mapped {/, GET} route +1ms
+[Nest] 3875  - 06/14/2023, 3:45:37 PM     LOG [RouterExplorer] Mapped {/something, GET} route +0ms
+[Nest] 3875  - 06/14/2023, 3:45:37 PM     LOG [RoutesResolver] QuizController {/quiz}: +0ms
+[Nest] 3875  - 06/14/2023, 3:45:37 PM     LOG [RouterExplorer] Mapped {/quiz, GET} route +1ms
+[Nest] 3875  - 06/14/2023, 3:45:37 PM     LOG [RouterExplorer] Mapped {/quiz/:id, GET} route +0ms
+[Nest] 3875  - 06/14/2023, 3:45:37 PM     LOG [RouterExplorer] Mapped {/quiz/create, POST} route +0ms
+[Nest] 3875  - 06/14/2023, 3:45:37 PM     LOG [RoutesResolver] QuestionController {/question}: +0ms
+[Nest] 3875  - 06/14/2023, 3:45:37 PM     LOG [RouterExplorer] Mapped {/question, POST} route +0ms
+[Nest] 3875  - 06/14/2023, 3:45:37 PM     LOG [RoutesResolver] OptionController {/question/option}: +0ms
+[Nest] 3875  - 06/14/2023, 3:45:37 PM     LOG [RouterExplorer] Mapped {/question/option, POST} route +0ms
+[Nest] 3875  - 06/14/2023, 3:45:37 PM     LOG [RoutesResolver] ResponseController {/response}: +0ms
+[Nest] 3875  - 06/14/2023, 3:45:37 PM     LOG [RouterExplorer] Mapped {/response, POST} route +0ms
+[Nest] 3875  - 06/14/2023, 3:45:37 PM     LOG [RoutesResolver] UserController {/user}: +0ms
+[Nest] 3875  - 06/14/2023, 3:45:37 PM     LOG [RouterExplorer] Mapped {/user/register, POST} route +1ms
+[Nest] 3875  - 06/14/2023, 3:45:37 PM     LOG [RoutesResolver] AuthController {/auth}: +0ms
+[Nest] 3875  - 06/14/2023, 3:45:37 PM     LOG [RouterExplorer] Mapped {/auth/login, POST} route +0ms
+[Nest] 3875  - 06/14/2023, 3:45:37 PM     LOG [RouterExplorer] Mapped {/auth/user, GET} route +0ms
+[Nest] 3875  - 06/14/2023, 3:45:37 PM     LOG [NestApplication] Nest application successfully started +2ms
